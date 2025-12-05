@@ -34,8 +34,9 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahid-sousa&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahid-sousa&layout=compact&theme=radical" height="165"/>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=sahid-sousa&theme=bear&showIcons=true">
+    <img  alt="Sahid Sousa GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sahid-sousa?theme=bear" />
+  </a>
 </p>
 
 ---
